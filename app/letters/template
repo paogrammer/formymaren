@@ -1,0 +1,27 @@
+// pages/index.js
+
+import React from 'react';
+import '../letters.css';
+import Link from 'next/link'
+
+
+const LetterOne = () => {
+  return (
+    
+    <div className='container'>
+        <Link className ='return-link' href='/letters'>Back to previous page</Link>
+        <div className='content'>
+          <div className='paper'>
+            <h2 className='letter-title'>Those Eyes</h2>
+            <p className='letter-content'>Dear Maren,</p>
+            <p className='letter-content'></p>
+          </div>
+        </div>
+    </div>
+  );
+};
+
+export default LetterOne;
+
+
+
