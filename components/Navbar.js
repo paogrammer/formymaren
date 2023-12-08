@@ -7,13 +7,14 @@ const Navbar = () => {
   return (
     <nav className="p-4">
       <div className="nav-container mx-auto">
+        <Link href="/greeting">
+          <div className="">Birthday Note</div>
+        </Link>
+        <span className="mx-4">|</span>
         <Link href="/home">
           <div className="">Flowers for You</div>
         </Link>
-        <span className="mx-4">|</span>
-        <Link href="/faq">
-          <div className="">FAQs</div>
-        </Link>
+        
         <span className="mx-4 ">|</span>
         <Link href="/letters">
           <div className="">Letters to Maren</div>

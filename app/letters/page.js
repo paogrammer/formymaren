@@ -9,7 +9,7 @@ const image = '/public/img/envelope.jpg'
 const Letters = () => {
   return (
     
-    <div className='container'>
+    <div className='letters-container'>
         <h1 className='title'>Letters to Maren</h1>
         <div className='content'>
           <div className=' grid xl:grid-cols-3 xs: grid-cols-1 gap-4'>
