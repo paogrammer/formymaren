@@ -43,7 +43,7 @@ const Letters = () => {
                 </div>
               </Link>
             </div>
-            <div className='col-span-1'>
+            {/* <div className='col-span-1'>
               <Link href='/letters/4'>
                 <div className=" bg-white max-w-sm rounded overflow-hidden shadow-lg">
                     <div className="w-full testimg"></div>
@@ -52,7 +52,7 @@ const Letters = () => {
                     </div>
                 </div>
               </Link>
-            </div>
+            </div> */}
             
           </div>
         </div>
