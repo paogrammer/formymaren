@@ -19,7 +19,7 @@ const LetterTwo = () => {
             <p className="letter-content">You see, I&apos;ve never been really much of a fan of destiny. I believe we carve our own fate. Pero when I think about the circumstances behind meeting you, I&apos;m starting to think of it as a half-half thing. Destiny gives you the opportunity, and then it&apos;s up to you if you&apos;re going to grab it, or let it slip through your fingers. Not even knowing all that, we both ended up holding on to each other. And when I think of it like that, I can&apos;t help but be grateful. Fate led us to each other, and even though we didn&apos;t realize the importance of it right away, we still somehow managed to connect.</p>
             <p className="letter-content">Thalia Maren, I was destined to meet you. And now, of my own volition, I am choosing to love you. And so far, I fully believe this is what I was meant to do. It just so happened that I really wanted to do it, too. Hope that made sense.</p>
             <p className="letter-content">Love,<br></br>Lorenzo</p>
-            <p className="letter-content">PS: The song that played was "flaws" by Thomas Ng</p>
+            <p className="letter-content">PS: The song that played was &ldquo;flaws&rdquo; by Thomas Ng</p>
           </div>
         </div>
     </div>
